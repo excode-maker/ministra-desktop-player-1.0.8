@@ -1,0 +1,10 @@
+{
+    "name": "ministra-desktop-player",
+    "version": "1.0.8",
+    "description": "Browser player for Ministra TV Platform.",
+    "author": {
+        "name": "Infomir",
+        "email": "support@infomir.eu"
+    },
+    "license": "license.md"
+}
